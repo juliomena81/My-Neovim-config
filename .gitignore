@@ -1,0 +1,21 @@
+# --- Neovim Runtime Data ---
+.netrwhist
+*.swp
+*.swo
+*.swn
+*.bak
+*.log
+
+# --- LSP & Tooling Garbage ---
+
+.virtualenv/
+.venv/
+.python-learn/
+.ipynb_checkpoints/
+.ropeproject/
+
+# --- System & OS Garbage ---
+.DS_Store
+Thumbs.db
+
+
